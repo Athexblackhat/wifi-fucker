@@ -1,7 +1,6 @@
 # 🔓 Advanced Wi-Fi Penetration Testing Framework
 
-## No Need To Ask Wifi Password, HACK it..! 
-### This Advanced Cyber Security Tool Will Hack Any Wi-Fi Password Automatically!
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-3.0-brightgreen.svg">
@@ -15,6 +14,12 @@
 </p>
 
 ---
+
+
+
+## No Need To Ask Wifi Password, HACK it..! 
+## This Advanced Cyber Security Tool Will Hack Any Wi-Fi Password Automatically!
+
 
 ## 🚀 Features & Capabilities
 
@@ -93,7 +98,7 @@ sudo pip3 install colorama
 # Clone repository
 sudo git clone https://github.com/Athexhacker/wifi-fucker
 cd wifi-fucker
-
+```
 
 ## Advanced Installation (All Tools)
 bash
@@ -121,8 +126,8 @@ Python 3.7+ installed
 
 
 
-👤 Creator & Contact
-ATHEX - Ethical Hacker & Security Researcher
+# 👤 Creator & Contact
+***ATHEX - Ethical Hacker & Security Researcher***
 <p align="center"> <a href="https://wa.me/+923490916663"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a> <a href="https://www.instagram.com/itx_athex86/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://www.youtube.com/inziXploit444"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a> </p>
 
 
