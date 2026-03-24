@@ -1,7 +1,5 @@
 # 🔓 Advanced Wi-Fi Penetration Testing Framework
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Version-3.0-brightgreen.svg">
   <img src="https://img.shields.io/badge/Python-3.7+-blue.svg">
@@ -17,8 +15,8 @@
 
 
 
-## No Need To Ask Wifi Password, HACK it..! 
-## This Advanced Cyber Security Tool Will Hack Any Wi-Fi Password Automatically!
+### No Need To Ask Wifi Password, HACK it..! 
+*This Advanced Cyber Security Tool Will Hack Any Wi-Fi Password Automatically!*
 
 
 ## 🚀 Features & Capabilities
@@ -114,8 +112,9 @@ git clone https://github.com/v1s1t0r1sh3r3/airgeddon.git
 git clone https://github.com/derv82/wifite2.git
 ```
 # Run the tool
+```
 sudo python3 run.py
-
+```
 
 
 # ⚠️ Important Notes
