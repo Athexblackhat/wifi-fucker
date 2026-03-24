@@ -85,7 +85,7 @@
 
 ### Kali Linux / Ubuntu / Parrot OS
 
-```bash
+```
 # Update system
 sudo apt-get update && sudo apt-get upgrade -y
 
@@ -101,14 +101,18 @@ cd wifi-fucker
 ```
 
 ## Advanced Installation (All Tools)
-bash
+
 # Install all wireless tools (30+ tools)
+```
 sudo apt-get install -y aircrack-ng reaver bully wifite pixiewps hashcat john crunch cupp kismet mdk3
-
+```
 # Install additional tools
+```
 git clone https://github.com/v1s1t0r1sh3r3/airgeddon.git
+```
+```
 git clone https://github.com/derv82/wifite2.git
-
+```
 # Run the tool
 sudo python3 run.py
 
