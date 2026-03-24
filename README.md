@@ -1,93 +1,137 @@
+# 🔓 Advanced Wi-Fi Penetration Testing Framework
 
+## No Need To Ask Wifi Password, HACK it..! 
+### This Advanced Cyber Security Tool Will Hack Any Wi-Fi Password Automatically!
 
-No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For You Any Wifi-Password..!
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-3.0-brightgreen.svg">
+  <img src="https://img.shields.io/badge/Python-3.7+-blue.svg">
+  <img src="https://img.shields.io/badge/Platform-Linux-red.svg">
+  <img src="https://img.shields.io/badge/License-Educational%20Only-yellow.svg">
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Advanced+Wi-Fi+Hacking+Tool;Educational+Purposes+Only;Stay+Ethical+Stay+Secure!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
 
-## Feutures and Contains :
+---
 
+## 🚀 Features & Capabilities
 
-```bash 
-1)Start monitor mode
+### 🔧 Core Features
+| # | Feature | Description |
+|---|---------|-------------|
+| 01 | **Start Monitor Mode** | Enable monitor mode on wireless interfaces |
+| 02 | **Stop Monitor Mode** | Disable monitor mode and restore services |
+| 03 | **Scan Networks** | Comprehensive network scanning with live output |
+| 04 | **Capture Handshake** | Advanced handshake capture with deauth attacks |
+| 05 | **Advanced Cracking** | Multi-method password cracking (Hashcat/GPU) |
+| 06 | **WPS Attacks** | Multiple WPS exploitation techniques |
+| 07 | **Wordlist Manager** | Advanced wordlist creation and management |
+| 08 | **Wireless Tools** | Install 30+ wireless security tools |
+| 09 | **System Info** | Detailed system and hardware information |
+| 10 | **Report Generator** | Professional HTML penetration reports |
 
-2)Stop monitor mode
+### 💥 Advanced Cracking Methods
+- **Hashcat GPU Acceleration** - Blazing fast password cracking
+- **Mask Attacks** - Pattern-based password guessing
+- **Rule-Based Attacks** - Advanced password mutation
+- **Hybrid Attacks** - Dictionary + mask combinations
+- **Distributed Cracking** - Cluster/network cracking setup
+- **John the Ripper** - Classic password cracker integration
 
-3)Scan Networks   
+### 🛠️ Wordlist Management
+- **Crunch Generator** - Custom character set wordlists
+- **Cupp Integration** - User profiling wordlist creation
+- **Merge & Clean** - Combine and optimize wordlists
+- **Statistics** - Wordlist analysis and metrics
+- **Download Manager** - Fetch popular wordlists (RockYou, SecLists)
 
-4)Getting Handshake
+### 🔓 WPS Attack Methods
+- **Reaver with Pixie Dust** - Fast WPS exploitation
+- **Bully Attack** - Alternative WPS cracking tool
+- **PIN Generator** - Generate PINs from MAC addresses
+- **Vulnerability Scanner** - Identify vulnerable targets
+- **Automated Attacks** - Multi-target attack automation
 
-5)Create wordlist
+### 📊 Report Generation
+- Professional HTML reports
+- Handshake capture logs
+- Attack statistics and timing
+- System configuration details
+- Vulnerability assessment
 
-6)Install Wireless tools                  
+---
 
-7)WPS Networks attacks 
+## 🖥️ Tested On
 
-8)Scan for WPS Networks
+| OS | Status | Notes |
+|---|--------|-------|
+| Kali Linux | ✅ Fully Compatible | Recommended |
+| BlackArch Linux | ✅ Fully Compatible | All tools available |
+| Ubuntu 20.04+ | ✅ Compatible | May need additional repos |
+| Parrot OS | ✅ Fully Compatible | Security edition |
+| Kali Nethunter | ✅ Compatible | Root required |
+| Termux | ⚠️ Limited | Rooted devices only |
 
-9)Crack Handshake with rockyou.txt
+---
 
-10)Crack Handshake with wordlist
-
-11)Crack Handshake without wordlist
-```
-
-## Tested On :
-
-* Kali Linux
-* BlackArch Linux
-* Ubuntu
-* Kali Nethunter
-* Termux ( Rooted Devices)
-* Parrot OS
-
-
-# Installation
-
+## 📦 Installation
 
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-1) sudo apt-get update && apt-get install git
-2) sudo git clone https://github.com/Athexhacker/wifi-fucker
-3) cd wifi-fucker
-4) sudo python3 run.py
-```
+# Update system
+sudo apt-get update && sudo apt-get upgrade -y
 
-## Creator
+# Install dependencies
+sudo apt-get install -y python3 python3-pip git
 
-(Your ATHEX) Hey, Dont Forget To say Thanks me :smile:
+# Install Python requirements
+sudo pip3 install colorama
 
-
-
-# Feel Free To Contact Me.
-
-### - [Whats App chat](https://wa.me/+923475549695)
-
-### - [Instagram](https://www.instagram.com/itx_athex86/)
+# Clone repository
+sudo git clone https://github.com/Athexhacker/wifi-fucker
+cd wifi-fucker
 
 
-# Disclaimer 
+## Advanced Installation (All Tools)
+bash
+# Install all wireless tools (30+ tools)
+sudo apt-get install -y aircrack-ng reaver bully wifite pixiewps hashcat john crunch cupp kismet mdk3
 
+# Install additional tools
+git clone https://github.com/v1s1t0r1sh3r3/airgeddon.git
+git clone https://github.com/derv82/wifite2.git
 
-Wifi-Hacking tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose :smile: !!!
-
-
-
-> Pull requests are always welcome.. :)  
+# Run the tool
+sudo python3 run.py
 
 
 
+# ⚠️ Important Notes
+Prerequisites
+Root access required (sudo privileges)
+
+Wireless adapter supporting monitor mode
+
+Linux-based OS (Kali/Parrot/Ubuntu)
+
+Python 3.7+ installed
 
 
-###### Donation
 
-If this CyberSecurity tool has been useful for you, feel free to thank me by buying me a coffee. :)
- 
- 
- 
- 
-### Happy Hacking ( Privacy & Security No Such Things Exists in digital World, We Can Hack Everything )
+👤 Creator & Contact
+ATHEX - Ethical Hacker & Security Researcher
+<p align="center"> <a href="https://wa.me/+923490916663"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a> <a href="https://www.instagram.com/itx_athex86/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://www.youtube.com/inziXploit444"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a> </p>
 
 
+## 🎯 Final Words
+"Privacy and security are not just technologies; they are fundamental human rights. Use this knowledge to protect, not to harm."
+
+Remember: With great power comes great responsibility. Every hack you perform should make the world more secure, not less.
+
+<p align="center"> <b>Stay Ethical! Stay Secure! 🔒</b> </p><p align="center"> <i>Happy Hacking | Privacy & Security - Nothing is 100% secure in the digital world, but we can make it better!</i> </p>
 
 
 
